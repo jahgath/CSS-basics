@@ -1,0 +1,16 @@
+  /* classes always start with a dot */
+.firstDiv{
+  color: red;
+}
+
+.secondDiv{
+  color: blue;
+}
+
+/* # is a selector for selecting Ids */
+#singledout{
+  color: green;
+  text-decoration: line-through;
+}
+
+/* "*" is a selector for selecting everything on the page */

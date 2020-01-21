@@ -1,0 +1,20 @@
+/* selected tag{ */
+  /* property: value; */
+/* } */
+
+h1{
+  color: purple;
+}
+
+li{
+  color: rgb(0, 204, 0);
+}
+
+p{
+  color: #4c76ba;
+}
+
+h4{
+  color: rgba(245, 42, 235, 0.5);
+  /* a is alpha: for transparency, value ranges from 0-1*/
+}

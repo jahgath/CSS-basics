@@ -1,0 +1,21 @@
+body{
+
+  background: url(https://media.istockphoto.com/photos/the-sky-with-clouds-beatiful-sunset-background-picture-id909829240?b=1&k=6&m=909829240&s=170667a&w=0&h=XcqtydwzBW37PG44n-TIj_KEYeQYe0cBbyutaQSlGGU=);
+
+}
+
+div{
+  background: white;
+  border-color: yellow;
+  border-width: 100px;
+  border-style: dotted;
+}
+
+p{
+  color: black;
+}
+
+span{
+  background: skyblue;
+  color: black;
+}
