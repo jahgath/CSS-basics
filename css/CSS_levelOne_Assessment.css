@@ -1,0 +1,43 @@
+h1{
+  border-style: solid;
+  border-width: medium;
+}
+
+#p1{
+  background: yellow;
+}
+
+a{
+  color: blue;
+}
+
+#list1{
+  color: purple;
+  text-decoration: overline;
+}
+
+#subh{
+  color: purple;
+}
+
+.smallArea{
+  border-style: inset;
+  border-width: thick;
+}
+
+input{
+  border-style: inset;
+  border-color: red;
+  border-width: thick;
+}
+
+.bigArea{
+  background: blue;
+  border-style: dashed;
+  border-width: thick;
+  border-color: yellow;
+}
+
+body{
+  background: skyblue;
+}

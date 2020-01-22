@@ -1,0 +1,35 @@
+h2{
+  text-align: center;
+}
+
+.art{
+  margin: auto;
+  /* to center the table */
+}
+
+td{
+  background-color: black;
+  height: 200px;
+  width: 100px;
+  border: 6px solid white;
+}
+
+#one{
+  background-color: #DAD2D8;
+}
+
+#two{
+  background-color: #325FA2;
+}
+
+#three{
+  background-color: #143642;
+}
+
+#four{
+  background-color:#EC9A29;
+}
+
+#five{
+  background-color: #A8201A;
+}
